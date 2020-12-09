@@ -3,7 +3,7 @@
 
 require "transproc"
 
-module AppPrototype
+module Web
   module Functions
     extend Transproc::Registry
 
